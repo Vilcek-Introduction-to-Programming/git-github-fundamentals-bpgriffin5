@@ -1,0 +1,8 @@
+---
+title: "Markdown-v1"
+output: html_document
+---
+
+Prior to this class, I did not understand what how github was used. I didn't realize that it could track changes and was place to save different versions of files as you and others work on a project. This is really cool and could be a helpful tool going forward. I'm still confused about what an R markdown file is exactly. I don't really understand how it is any different from .txt file as R can read text files just the same. In the past, when I've used RStudio I have saved all of my files as .txt files and they seem to do the same thing.
+
+Wilson et al. 2017 makes the suggestion to track changes to data files that are made by you and collaborators. This an important step as a methodology should be able to reproduce what was down and if there is a series of analyses down on a set of data and this is not saved at different steps then information can be lost and therefore make it impossible to reproduce the protocol done by the researchers. R and Github can help in this because saving versions of R scripts and edits done to a script can get lost. But If you're keeping track by pushing edits to a Github repository then everything will be logged and easily accesible.
